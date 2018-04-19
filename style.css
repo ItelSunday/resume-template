@@ -3,5 +3,12 @@
 }
 
 .navbar{
-	margin-left: 0;
+	color: #333;
+}
+.navbar-nav {
+  width: 500px;
+}
+
+.navbar.navbar-nav.li{
+    color: black;
 }
