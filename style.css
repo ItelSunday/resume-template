@@ -1,14 +1,24 @@
-* {
-    box-sizing: border-box;
-}
 
-.navbar{
-	color: #333;
-}
 .navbar-nav {
-  width: 500px;
+  width: 90px;
 }
 
-.navbar.navbar-nav.li{
-    color: black;
+.bg-light{
+background-color: #ff5500 !important;
+}/*still working on it*/
+
+.navbar-nav > .nav-item{
+	color: #fc4628;
 }
+
+.hr{
+	color: black;
+}
+
+.text-justify{
+	font-family: Roboto;
+}
+
+
+
+/*Nav:#ff5500 / #fc4628*/
